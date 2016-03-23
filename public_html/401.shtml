@@ -1,0 +1,2 @@
+Non hai le autorizzazioni necessarie per visualizzare la pagina. < /br>
+Ti invitiamo a visitare comunque il sito <a href="http://<!--#echo var='HTTP_HOST' -->"><!--#echo var="HTTP_HOST" --></a> per ricercare i contenuti desiderati.

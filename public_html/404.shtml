@@ -1,0 +1,2 @@
+La pagina <strong> <!--#echo var="HTTP_HOST" --><!--#echo var="REQUEST_URI" --> </strong> non è attualmente disponibile, potrebbe esser stata spostata o eliminata.
+Ti invitiamo a visitare comunque il sito <a href="http://<!--#echo var='HTTP_HOST' -->"><!--#echo var="HTTP_HOST" --></a> per ricercare i contenuti desiderati.

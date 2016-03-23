@@ -1,0 +1,500 @@
+body {
+	margin:20px 0;
+	padding:20px 0;
+	padding:0 !important;
+	background-color:#FFF;
+	}
+	
+body.pagine {
+	margin:20px 0;
+	padding:20px 0;
+	padding:0 !important;
+	background:url(../imgs/header_2.jpg) center top no-repeat;
+	}
+a {
+	outline:none;
+	}
+.header_2 {
+	position:relative;
+	width:940px;
+	height:70px;
+	margin:30px;
+	margin:20px auto 30px auto !important;
+	padding-left:20px;
+	margin-top:40px;
+	}
+
+.header_2 img {
+	border:none;
+	}
+.header_2 a.btn-video-testata {
+	float:right;
+	margin-right:60px;
+	margin-left: -30px;
+}
+	
+.eng {
+	position:absolute;
+	right:10px;
+	top:40px;
+	border:none;
+	}
+
+.introduzione {
+	background:url(../imgs/sfumatura_introduzione.jpg) repeat-x;
+	background-color:#f2f2f2;
+	}
+
+.wrapper {
+	position:relative;
+	width:960px;
+	margin:0 auto;
+	}
+
+.clear{
+	clear:both;
+	}
+
+.logo_intro {
+	margin:30px auto 20px auto;
+	width:522px;
+	}
+
+#video {
+	position:relative;
+	width:320px;
+	height:240px;
+	left:30px;
+	margin-top:40px;
+	margin-bottom:10px;
+	}
+.lingua {
+	position:relative;
+	margin:0 auto;
+	text-align:center;
+	}
+.lingua a {
+	text-align:center;
+	font-size:18px;
+	font-family:"Arial Black", Gadget, sans-serif;
+	text-decoration:none;
+	color:#000;
+	}
+.lingua a:hover {
+	text-decoration:underline;
+	}
+.lingua img {
+	text-align:center;
+	border:none;
+	}
+.language-version {
+	font-size:9px;
+	font-family:Verdana, Geneva, sans-serif;
+	}
+.claim {
+	font:18px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	line-height:22px;
+	margin:35px auto 5px auto;
+	width:650px;
+	}
+.claim p {
+	text-align:center;
+	}
+.claim h1 {
+	text-align:center;
+	}
+.claim_1 {
+	float:left;
+	text-align:right;
+	}
+	
+.claim_2 {
+	float:right;
+	text-align:left;
+	}
+
+/* ---  MENU NAVIGAZIONE --- */
+.menu {
+	position:relative;
+	width:220px;
+	float:left;
+	background:#e5e5e5;
+	padding:15px 10px;
+	font:16px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	}
+	
+.menu ul {
+	position:relative;
+	padding:0;
+	margin:0;
+	list-style-type:none;
+	}
+	
+.menu li {
+	border:1px solid #e5e5e5;
+	padding:0px;
+	margin:5px 0px;
+	position:relative;
+	}
+
+.menu a:link,
+.menu a:visited {
+	position:relative;
+	color:#000;
+	display:block;
+	text-decoration:none;
+	margin:0px 0px;
+	padding:5px 5px;
+	}
+	
+.menu a:hover {
+	color:#FFF;
+	display:block;
+	text-decoration:none;
+	background-color:#370001;
+	margin:0px 0px;
+	padding:5px 5px;
+	}
+
+.menu  a.active:link,
+.menu  a.active:visited {
+	background-color:#f2f2f2;
+	color:#370001;
+	}
+	
+/* ---  MENU GALLERY --- */
+.menu_2 ul {
+	padding:0;
+	margin:0;
+	list-style-type:none;
+	font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	}
+	
+.menu_2 li {
+	display:inline;
+	}
+	
+.menu_2 a:link,
+.menu_2 a:visited {
+	color:#000;
+	text-decoration:none;
+	margin:0;
+	padding:10px;
+	background:#CCC;
+	}
+	
+.menu_2 a:hover {
+	color:#FFF;
+	text-decoration:none;
+	background:#370001;
+	margin:0;
+	padding:10px;
+	}
+	
+.top_wrapper ul {
+	margin:0 0 13px 0;
+	padding:0;	
+	}
+
+/* ---  ELENCO CHI SIAMO E IL MOTORE --- */
+.elenco_1 li {
+	position:relative;
+	margin-top:15px;
+	margin-left:0;
+	padding-left:15px;
+	list-style:none;
+	background:url(../imgs/bullet.gif) no-repeat;
+	} 
+
+.elenco_1 {
+	margin:0;
+	padding:0;
+	}
+
+/* ---  ELENCO LINK --- */
+.utili li a:link,
+.utili li a:visited {
+	color:#000;
+	margin:10px 0;
+	padding:0px 10px;
+	text-decoration:none;
+	} 
+
+.utili li a:hover {
+	color:#FFF;
+	text-decoration:none;
+	background-color:#000F33;
+	margin:10px 0px;
+	padding:0px 10px;
+	}
+
+.utili {
+	margin:0 0 15px 0;
+	padding:0;
+	list-style:none;
+	text-decoration:none;
+	}
+
+.contenuto,
+.contenuto_2 {
+	font:12px Arial, Helvetica, sans-serif;
+	line-height:16px;
+	position:relative;
+	width:400px;
+	margin-left:20px;
+	float:left;
+	}
+.contenuto a {
+	text-decoration:none;
+	color:#0053A6;
+	}
+.contenuto_2 {
+	width:600px;
+	}
+
+img.motore {
+	position:relative;
+	float:left;
+	margin-left:20px;
+	width:220px;
+	}
+	
+.motori_disponibili_img {
+	position:relative;
+	width:159px;
+	margin:0 0px 0 20px;
+	float:right;
+	}
+
+.motori_disponibili_txt{
+	width: 421px;
+	float: left;
+}	
+
+.footer,
+.footer_2 {
+	margin:20px 0 20px 0;
+	padding:20px 0 0 0;
+	text-align:center;
+	font:12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	background:url(../imgs/footer.jpg) center no-repeat;
+	}
+
+.footer_intro {
+	margin:20px 0;
+	padding:0;
+	text-align:center;
+	font:12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	}
+	
+.footer a {color:black;}
+
+#genoa {
+	font-weight:bold;
+	font-size:14px;
+	margin:0;
+	position:relative;
+	}	
+
+.colonna_immagini {
+	position:relative;
+	width:260px;
+	float:left;
+	}
+
+.immagini_esperienza,
+#video_motore {
+	width:260px;
+	position:relative;
+	margin:0 0 20px 20px;
+	}	
+
+.immagini_esperienza img{
+	border:none;
+	}
+.immagini_esperienza p{
+	margin-top:5px;
+	font:12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	}
+
+.prima_riga {
+	width:100px;
+	height:60px;
+	background:url(../imgs/sfondo_tabella_1.jpg) repeat-x;
+	color:#FFF;
+	text-align:center;
+	font-weight:bold;
+	}
+
+table {
+	margin:20px 0;
+	}
+
+table img {
+	border:none;
+	}
+
+.altre_righe_1,
+.altre_righe_2 {
+	width:100px;
+	height:60px;
+	color:#000;
+	text-align:center;
+	}
+	
+.altre_righe_1 {background:url(../imgs/sfondo_tabella_2.jpg) repeat-x;}	
+.altre_righe_2 {background:url(../imgs/sfondo_tabella_3.jpg) repeat-x;}	
+	
+.titoletto {
+	font:16px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	line-height:20px;
+	margin-bottom:5px;
+	}
+h1 {
+	font:16px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	line-height:20px;
+	padding-bottom:10px;
+	margin:0;
+	}
+	
+.immagini_test_1, 
+.immagini_test_2 {
+	position:relative;
+	margin:20px 20px 20px 0;
+	float:left;
+	}
+	
+.acceso {
+	background:#FFF;
+	}	
+	
+#quadro_bianco {
+	background:#FFF;
+	width:480px;
+	height:520px;
+	}	
+	
+#quadro {
+	background:#CCC;
+	width:480px;
+	padding:20px;
+	margin:0;
+	}
+	
+.img_tests {
+	margin:10px auto;
+	}
+
+/* MODAL - in caso di necessità chiedere a casio =======*/
+
+.modalbtn {
+	cursor: pointer;
+	}
+.modal {
+	/*strutture nidded */
+	position: fixed;
+	top: 40%;
+	left: 50%;
+	z-index: 1050;
+	width: 610px;
+	padding: 10px 20px 10px 20px;	
+	margin: -150px 0 0 -280px;
+	background: #ffffff; /* Old browsers */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	border:1px solid #FF6500;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	/*content modal */
+	font-size:14px;
+	line-height:120%;
+	color:#1C1C1B;
+
+	}
+.modal-header {
+	padding: 15px 0;
+	}
+.modal-header .close {
+	margin-left: 593px;
+	margin-top: -25px;
+	position: absolute;
+	outline:none;
+	}
+.submit-button.close {
+	border: 0 none;
+	color: #FF6500;
+	cursor: pointer;
+	font-family: Arial,sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	height: 15px;
+	line-height: 15px;
+	padding: 8px 21px 27px 23px;
+	text-align: center;
+	width: 15px;	
+	}
+.ie7 .submit-button.close,
+.ie8 .submit-button.close {
+	font-weight: normal;
+	padding: 8px 21px 27px 14px;
+	margin-right:-5px;
+	width:39px;
+	margin-left:0;
+	right:0px;
+	z-index: 1100;
+	}	
+.ie7 .submit-button.close {
+	height:40px;
+	width:42px;
+
+	}
+.modal-body {
+	margin-left:-10px;
+	position:relative;
+	padding: 15px 15px;
+	}
+.modal-content {
+	padding: 5px 20px 5px 0;
+	margin:0 -20px 0 0; 
+   font-size:12px; 
+	}
+	
+.modal-content img{
+	border:solid 1px #ccc;
+	margin-bottom: 0 -1px 20px -1px;
+	}
+.modal-content p{
+font-family:Arial,Helvetica,sans-serif;
+	}
+.modal-header h3{
+font-family:Arial,Helvetica,sans-serif;
+margin:0;
+	}
+.modal p {
+	padding-bottom: 15px;
+	}	
+.modal-footer {
+	margin-top:3px;
+	border: 1px dotted #F5F5F7;
+	padding: 5px 0 0 0; 
+	}
+	
+.pop-project .modal-footer {
+	margin-top:20px;
+	border: 1px dotted #F5F5F7;
+	padding: 5px 0 0 0; 
+	}
+.modal-backdrop {
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 1040;
+	background:url("../imgs/sixtyblack-overlay.png") repeat scroll left top transparent;
+	}

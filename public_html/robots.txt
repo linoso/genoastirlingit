@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /ita/index.shtml
+Disallow: /xampp/
+Disallow: /ita/pdf/TheStirlingRise1.pdf
+Disallow: /ita/pdf/TheStirlingRise1.php
+Allow: /
