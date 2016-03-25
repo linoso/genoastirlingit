@@ -2,9 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
 <head>
 
-<title>They say about us | Genoastirling</title>
-<meta name="description" content="List publications article and materials about GenoaStirling stirling engines" />
-<meta name="keywords" content="List publications article and materials conference GenoaStirling stirling engines" />
+<title>Dicono di noi | Genoastirling</title>
+<meta name="description" content="Lista di pubblicazioni, articoli e interventi rigardo i motori Stirling GenoaStirling" />
+<meta name="keywords" content="Lista di pubblicazioni, articoli e interventi conferenze motori Stirling GenoaStirling" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="Robots" content="INDEX, FOLLOW" />
 <meta name="Revisit-after" content="7 Days" />
@@ -24,8 +24,8 @@
 <body class="pagine">
 <?php include("cookie.php");?>
 		<div class="header_2">
-			<a href="index.php" ><img src="../imgs/logo.png" width="177" height="70" alt="Genoastirling Stirling Engines" /></a>
-            <a href="http://www.genoastirling.it/ita/dicono-di-noi.php"><img src="../imgs/logo_italia_2.jpg" class="eng" width="26" height="26" alt="Genoastirling Italian" /></a>
+            <a href="index.php" ><img src="../imgs/logo.png" width="177" height="70" alt="Genoastirling Motori Stirling" /></a>
+            <a href="http://www.genoastirling.com/eng/they-say-about-us.php"><img src="../imgs/logo_eng_2.jpg" class="eng" width="26" height="26" alt="Genoastirling English" /></a>
         </div>
         
 	<div class="wrapper">        
@@ -33,7 +33,7 @@
         <div class="medium_wrapper">
         	<?php include("menu.php");?>
             <div class="contenuto_2">
-                <h1 class="titoletto">They say about us</h1>
+                <h1 class="titoletto">Dicono di noi</h1>
 				<div class="titoletto">KTH School of Industrial Engineering and Management and Universidad Mayor de San Simon (UMSS)</div>
                 <ul class="utili">
                     <br/>
@@ -63,7 +63,7 @@
                     <br/>
                     <li><b><a href="http://www.ibimapublishing.com/journals/IJREB/2014/926227/926227.html" target="_blank">Challenges in Developing a Domestic Solar Thermal Electricity System Using a Stirling Engine</a></b> - R. Mangion, M. Muscat, T. Sant, J. G. Rizzo, R. Ghirlando, J. Cilia, J. Mizzi and S. Vural</li><br/>
                 </ul>
-                <div class="titoletto">University of Genoa</div>
+                <div class="titoletto">Università di Genova</div>
                 <ul class="utili">
                     <br/>
                     <li><b><a href="http://www.tpg.unige.it/TPG/download_folder/SustainableEnergy/Lesson%20XIX%20-%20Stirling%20engines.pdf" target="_blank">Sustainable Energy: Fuel Cells & Distributed Generation Systems</a></b> - Dr. Ing. Mario L. Ferrari</li><br/>

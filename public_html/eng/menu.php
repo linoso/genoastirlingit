@@ -8,6 +8,7 @@
 		<li><a href="test.php" title="tests">Tests</a></li>
 		<li><a href="gallery.php" title="Image gallery">Gallery</a></li>
 		<li><a href="useful-links.php" title="Useful links">Useful links</a></li>
+		<li><a href="they-say-about-us.php" title="They say about us">They say about us</a></li>
 	</ul>
 </div>
 
